@@ -1,4 +1,4 @@
-### Student Distributions 
+Student Distributions 
 
 100 students come to a workshop to learn about coding and data. 50 will google Coursera. A further gritty 25 will finish a course; 10 will put that course onto their resumes. Maybe one will eventually dedicate herself to the lifelong craft. 
 
