@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Distributions
+title: Can Data Make You Beautiful
 --- 
 And I don't mean using algorithms that suggest the best set of outfits for you, or software that matches the best hue of eyeshadow for your skin tone. 
 
