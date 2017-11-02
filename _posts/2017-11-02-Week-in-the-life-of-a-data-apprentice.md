@@ -1,4 +1,5 @@
 
+I have several things to research and learn about his week, foremost on my mind is pinning down what data cleaning really involves. I brew some coffee and get started. 
 
 ## Learning about Data Cleaning Tools
 
