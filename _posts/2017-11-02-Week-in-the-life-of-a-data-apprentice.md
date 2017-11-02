@@ -1,8 +1,6 @@
 
 
-## Things I'm gathering information on
-
-- Data Cleaning tools. 
+## Learning about Data Cleaning Tools
 
 It's like living on your own for the first time and realising that there are ten different ways to clean the sink: with instant stain remover, all purpose cleaner or old-fashioned vinegar and bicarbonate soda. Don't forget as well the idiosyncracies of your bathroom sink - the way the faucet is slightly leaky and so the area around need always needs an extra scrub, the way you need to remember to wipe around the rim. In the same way, there are many tools and ways to clean data. One can clean with a drag-and-drop tool, with code within a shareable Jupyter Notebook, with various computing languages, with paid or free options, the list is goes on. 
 
