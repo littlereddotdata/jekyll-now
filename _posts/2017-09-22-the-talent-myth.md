@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the-talent-myth
+title: The Talent Myth
 --- 
 
 Rebecca Solnit talks about writing, but what she says also applies to code, which is, after all, just another form of language. 
