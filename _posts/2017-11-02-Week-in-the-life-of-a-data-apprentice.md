@@ -1,7 +1,4 @@
----
-layout: post
-title: Week in the life of a Data Apprentice 
----
+
 
 ## Things I'm gathering information on
 
