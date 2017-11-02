@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pi-Adventures
+title: Pi Adventures
 --- 
 
 A pretty momentous thing just happened - I bought myself a Raspberry Pi and a camera module. I say momentous because it opened up a new world to explore: the world of digital making. 
