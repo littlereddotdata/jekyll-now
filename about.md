@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Data Worker, always learning. 
+Charting a journey through the tech space. 
 
 ### More Information
 
-I'm also interested in the history behind the tech industry 
+Technical skills are not my only focus. I'm also interested in how technology mixes with history, fads and human behaviour to build our world. 
 
 ### Contact me
 
