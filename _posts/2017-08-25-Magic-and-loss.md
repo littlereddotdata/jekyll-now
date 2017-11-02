@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magic-and-Loss
+title: Magic and Loss
 --- 
 
 The internet suggests immortality - comes just shy of promising it - with its magic. With its readibility and persistence of data. With its suggestion of universal connectedness. With its disembodied images and sounds. And then, just as suddenly, it stirs grief: the deep feeling that digitization has cost us something very profound. That connectedness is illusory; that we're all more alone than ever. That our short comings and our suffering are all the more painful because they're built in the mirror of a fanthomless and godlike medium that doesn't suffer, that knows everything, that shows us no mercy or compassion. In those moments death shows through in the regular gaps in Internet service, and it's more harrowing than ever. 
