@@ -14,4 +14,4 @@ personally, if there is one underlying theme to our apprenticeship program, and 
 
 https://slack.engineering/how-slack-supports-junior-engineers-89f6dcfe74a1
 https://docs.carpentries.org/topic_folders/hosts_instructors/index.html
-https://github.com/hadley/stats337
+https://github.com/hadley/stats337 
