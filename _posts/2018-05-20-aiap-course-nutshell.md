@@ -13,5 +13,5 @@ personally, if there is one underlying theme to our apprenticeship program, and 
 *for this course we researched, and indeed continue to read about, how learning and mentoring is done at work. some resources we have found helpful and include here for those also on this journey:* 
 
 https://slack.engineering/how-slack-supports-junior-engineers-89f6dcfe74a1
-https://docs.carpentries.org/topic_folders/hosts_instructors/index.html
+https://docs.carpentries.org/topic_folders/hosts_instructors/index.html  
 https://github.com/hadley/stats337 
